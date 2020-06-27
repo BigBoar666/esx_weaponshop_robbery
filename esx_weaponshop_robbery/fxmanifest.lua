@@ -8,10 +8,8 @@ version '2.0.0'
 
 client_scripts {
 	'@es_extended/locale.lua',
-	'locales/de.lua',
-	'locales/br.lua',
 	'locales/en.lua',
-	'locales/fr.lua',
+	'locales/fi.lua',
 	'config.lua',
 	'client/esx_weaponshop_robbery_cl.lua'
 }
@@ -19,10 +17,8 @@ client_scripts {
 server_scripts {
     '@mysql-async/lib/MySQL.lua',
 	'@es_extended/locale.lua',
-	'locales/de.lua',
-	'locales/br.lua',
 	'locales/en.lua',
-	'locales/fr.lua',
+	'locales/fi.lua',
 	'config.lua',
 	'server/esx_weaponshop_robbery_sv.lua'
 }
