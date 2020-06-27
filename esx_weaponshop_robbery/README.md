@@ -1,5 +1,5 @@
-# esx_vangelico_robbery
-ESX Vangelico Robbery V 2.0.0
+# esx_weaponshop_robbery
+ESX Weaponshop Robbery V 2.0.0
 
 [REQUIREMENTS]
 
@@ -11,21 +11,18 @@ ESX Vangelico Robbery V 2.0.0
 
 1) CD in your resources/[esx] folder
 2) Clone the repository
-3) Import esx_vangelico_robbery.sql in your database
-4) Add this in your server.cfg :
+3) Add this in your server.cfg :
 
 ```
-start esx_vangelico_robbery
+start esx_weaponshop_robbery
 ```
 
 [ORIGINAL SCRIPT]
 
-  * esx_holdup => https://github.com/ESX-Org/esx_holdup
+  * esx_vangelico_robbery => https://github.com/ESX-PUBLIC/esx_vangelico_robbery 
 
-[OLD VIDEO]
+[VIDEO]
 
-  * https://www.youtube.com/watch?v=MivP5hU5m8A
+  * https://streamable.com/dpv0ui
 
-[NEW VIDEO]
 
-  * https://streamable.com/y11r7
