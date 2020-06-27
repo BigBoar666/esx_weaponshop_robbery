@@ -3,7 +3,6 @@ ESX Weaponshop Robbery V 2.0.0
 
 [REQUIREMENTS]
 
-  * FiveM-ipl   => https://github.com/ESX-PUBLIC/fivem-ipl
   * esx_policejob => https://github.com/ESX-Org/esx_policejob
   * esx_ambulancejob => https://github.com/ESX-Org/esx_ambulancejob
 
