@@ -2,7 +2,6 @@ Config = {}
 Config.Locale = 'en'
 
 Config.RequiredCopsRob = 0
-Config.RequiredCopsSell = 0
 Config.MaxWindows = 6
 Config.SecBetwNextRob = 3600 --1 hour
 Config.EnableMarker = true
