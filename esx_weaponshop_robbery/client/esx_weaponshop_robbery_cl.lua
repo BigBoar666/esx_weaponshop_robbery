@@ -95,7 +95,7 @@ AddEventHandler('esx_ase_robbery:robberycomplete', function(robb)
 	incircle = false
 end)
 
-
+--[[]] --if you dont want there to be blip on the map remove The last two ]]
 Citizen.CreateThread(function()
 	for k,v in pairs(Stores)do
 		local ve = v.position
@@ -109,7 +109,7 @@ Citizen.CreateThread(function()
 		EndTextCommandSetBlipName(blip)
 	end
 end)
-
+--]]
 
 animazione = false
 incircle = false
